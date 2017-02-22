@@ -42,5 +42,9 @@ module.exports = {
         ],
         'no-plusplus': 'off',
         'no-restricted-properties': 'off',
+        'object-curly-spacing': [
+            'error',
+            'never',
+        ],
     },
 };
