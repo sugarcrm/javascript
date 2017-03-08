@@ -1,6 +1,6 @@
 {
   "name": "@sugarcrm/eslint-config-sugarcrm",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ESLint configuration file used for various SugarCRM projects",
   "main": "index.js",
   "repository": "https://github.com/sugarcrm/javascript",
